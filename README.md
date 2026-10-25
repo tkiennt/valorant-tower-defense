@@ -98,7 +98,7 @@ valorant-tower-defense/
 ## 👥 6. Tác giả & Đóng góp (Credits)
 
 - **Dự án được phát triển bởi:** Nhóm dự án Valorant Defense.
-- **Đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)):
-  - Thiết kế và hoàn thiện toàn bộ phân hệ xác thực người chơi (`SignupScene.unity`, `SignupScene Manager`).
+- **Thành viên đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)):
+  - Thiết kế và hoàn thiện phân hệ xác thực người chơi (`SignupScene.unity`, `SignupScene Manager`).
   - Xử lý hệ thống phông chữ TextMesh Pro, chuẩn hóa các trường nhập liệu (Input Validation).
   - Tối ưu hóa giao diện Menu, hiệu ứng tương tác người chơi và quy trình build game.
